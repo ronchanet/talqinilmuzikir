@@ -1,4 +1,4 @@
-// Simpan ini di folder doa/daftar_doa.js
+// Simpan ini di folder doa/list_materi.json
 const daftarFileDoa = [
     "ramadhan_23_1447.txt",
     "Ziarah_Kubur.txt",
