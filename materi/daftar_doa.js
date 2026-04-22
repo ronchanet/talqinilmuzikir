@@ -1,1 +1,8 @@
-
+// Simpan ini di folder doa/daftar_doa.js
+const daftarFileDoa = [
+    "ramadhan_23_1447.txt",
+    "Ziarah_Kubur.txt",
+    "ilmu_thoriqoh.txt",
+    "tes_suara_offline.txt",
+    "tes_suara_online.txt"
+];
