@@ -1,6 +1,0 @@
-[[HALAMAN: BAB]]
-tes materi 5
-[[HALAMAN: ISI]]
-((audio: https://raw.githubusercontent.com/ronchanet/sn2h_mockup/main/tes.mp3))
-(center) ini sample tes rekaman via online (center)
-[[HALAMAN: PENUTUP]]
